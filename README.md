@@ -25,7 +25,7 @@ Passionate to build fast, stable, reusable and user-friendly web applications.
   
   ### 📩 &nbsp;My Social:
 <br/>
-<a href="mailto:haithamsanari@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/haitham-sanari/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<a href="mailto:haithamsanari@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/haitham-sanari/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 <!--
 **HaithamSanari/HaithamSanari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
