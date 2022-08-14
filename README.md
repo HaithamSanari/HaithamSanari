@@ -13,7 +13,7 @@ Passionate to build fast, stable, reusable and user-friendly web applications.
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node)
+  ![Node](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
