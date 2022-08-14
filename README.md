@@ -1,4 +1,6 @@
 ### Hi, I'm Haitham <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+
+
 ### 💻 &nbsp;About Me
 
 <!-- BLOGPOSTS:START -->
@@ -9,10 +11,8 @@ Passionate to build fast, stable, reusable and user-friendly web applications.
 ### 🛠 &nbsp;Tech Stack
 - 🌐 &nbsp;
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-1a73e8?style=flat-square&logo=JavaScript&logoColor=white" />
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1a73e8?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-430098?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
@@ -31,6 +31,7 @@ Passionate to build fast, stable, reusable and user-friendly web applications.
   
   ### 📩 &nbsp;My Social:
 <br/>
+<a href="https://github.com/HaithamSanari" target="_blank" ><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
 <a href="mailto:haithamsanari@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/haitham-sanari/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 <!--
 **HaithamSanari/HaithamSanari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
